@@ -1,2 +1,2 @@
-# PHD-files
-PHD thesis files
+# Master Thesis-files
+Master Thesis files
